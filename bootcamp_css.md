@@ -206,7 +206,7 @@ p{
 text-align:justify; 하면 왼쪽 오른쪽 들쭉날쭉 하지않고 균일하게 된다
 하지만 그게 더 못생겨 보일수도 있으니까 잘 보고 하기
 
-font
+### font
 
 - font-family : 글꼴 지정
 
